@@ -1,9 +1,5 @@
 
-#### Hello World! My name is Alex Oliveira, nice to meet you! <img src="https://raw.githubusercontent.com/AlexOliveiraaDev/alexoliveiraadev/main/assets/profile_color.gif" width="30" style="vertical-align: middle;">
 
-Full Stack Developer from Brazil, passionate about finding solutions to all kinds of problems!
-
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAlexOliveiraaDev"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FAlexOliveiraaDev&label=VISITORS%20(today/total)&labelColor=%230f0f0f&countColor=%23e6e6e6&labelStyle=upper" /></a>
 
 <div style="width: max-content;">
 
@@ -30,7 +26,7 @@ Full Stack Developer from Brazil, passionate about finding solutions to all kind
 
 #### 📫 You can find me at:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/alexoliveiraa/)](https://www.linkedin.com/in/alexoliveiraa/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/lucas-filipi-0b2171387/)](https://www.linkedin.com/in/lucas-filipi-0b2171387/)
 
 </div>
 
