@@ -17,4 +17,4 @@ A brazilian programming student majoring in Systems Analysis and Development, pa
 
 </div>
 
-[![Gmail](https://img.shields.io/badge/contatolucasfilipidossantos@gmail.com-%230078D4.svg?style=flat-square&logo=microsoftoutlook&logoColor=black&link=mailto:contatolucasfilipidossantos@gmail.com)](mailto:contatolucasfilipidossantos@gmail.com))
+[![Gmail](https://img.shields.io/badge/contatolucasfilipidossantos@gmail.com-%230078D4.svg?style=flat-square&logo=microsoftoutlook&logoColor=black&link=mailto:contatolucasfilipidossantos@gmail.com)](mailto:contatolucasfilipidossantos@gmail.com)
